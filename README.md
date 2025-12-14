@@ -48,16 +48,15 @@ $$Risk = (PGA \times Zemin Çarpanı) \times Mesafe Faktörü$$
 |:---:|:---:|
 | ![Yüksek Risk](https://via.placeholder.com/300x500?text=Riskli+Bolge+Resmi) | ![Düşük Risk](https://via.placeholder.com/300x500?text=Guvenli+Bolge+Resmi) |
 
-## 📦 Kurulum (Local)
-Bu projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
+## 📦 Bilgisayara İndirip Çalıştırma (Çevrimdışı İnceleme)
+Projenin kodlarını incelemek için:
 
-1.  Bu repoyu klonlayın:
-    ```bash
-    git clone [https://github.com/nazifkullaniciadi/deprem-risk-analizi.git](https://github.com/nazifkullaniciadi/deprem-risk-analizi.git)
-    ```
-2.  Klasörün içine girin.
-3.  `index.html` dosyasını bir tarayıcıda açın (GPS özelliği için Yerel Sunucu/Live Server önerilir).
-
+1.  Yukarıdaki yeşil **`<> Code`** butonuna basıp **`Download ZIP`** deyin.
+2.  Dosyayı çıkartıp **`index.html`** dosyasına çift tıklayın.
+3.  ⚠️ **Önemli Not:** Dosyayı direkt çift tıklayarak açtığınızda tarayıcı güvenlik kuralları gereği **GPS (Konum)** özelliği çalışmayabilir.
+    * *Tam fonksiyonlu deneyim için en üstteki **"Canlı Demo"** butonunu kullanınız.*
+    * *Veya dosyayı VS Code "Live Server" eklentisi ile çalıştırınız.*
+  
 ## 📚 Kaynakça
 1.  **AFAD.** (2018). Türkiye Deprem Tehlike Haritası.
 2.  **MTA.** (2024). Yerbilimleri Harita Görüntüleyicisi.
