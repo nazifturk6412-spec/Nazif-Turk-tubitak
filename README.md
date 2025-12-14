@@ -9,7 +9,7 @@
 ## 🚀 Canlı Demo
 Projenin çalışan son halini tarayıcınızda veya telefonunuzda görüntülemek için aşağıdaki butona tıklayın:
 
-[**🟢 UYGULAMAYI BAŞLAT (TIKLA)**](https://nazifkullaniciadi.github.io/deprem-risk-analizi/)
+[**🟢 UYGULAMAYI BAŞLAT (TIKLA)**](https://nazifturk6412-spec.github.io/Nazif-Turk-tubitak/)
 
 ---
 
